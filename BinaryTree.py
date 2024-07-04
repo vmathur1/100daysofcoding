@@ -85,7 +85,7 @@ class BstNode:
 
         
 
-treenumbers =[3,2,6,34,22,11,7,8,23,34,55,61,35,45,33,22,56]
+treenumbers =[3,2,6,34,22,11,7,8,23,34,27,33,23,55,61,35,45,33,22,56]
 tree1=BstNode(102)
 for i in treenumbers:
     tree1.insert(i)
